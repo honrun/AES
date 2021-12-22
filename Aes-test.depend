@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1637842844 source:e:\debug project\c\aes-test\aes.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	"aes.h"
+	"aes.h"
+
+1637829296 e:\debug project\c\aes-test\aes.h
+	<stddef.h>
+	<stdint.h>
+
+1637842803 source:e:\debug project\c\aes-test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aes.h"
+
